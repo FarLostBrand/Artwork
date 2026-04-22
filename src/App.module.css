@@ -1,0 +1,90 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 32px;
+  border-bottom: 0.5px solid var(--border);
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 10;
+}
+
+.siteTitle {
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--text);
+  letter-spacing: -0.3px;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.viewSwitcher {
+  display: flex;
+  background: var(--bg-secondary);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 3px;
+  gap: 2px;
+}
+
+.viewBtn {
+  padding: 5px 12px;
+  font-size: 13px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  transition:
+    background 0.15s,
+    color 0.15s;
+}
+
+.viewBtn:hover {
+  color: var(--text);
+}
+
+.viewBtn.active {
+  background: var(--bg-card);
+  color: var(--text);
+  border: 0.5px solid var(--border);
+}
+
+.themeBtn {
+  padding: 6px 10px;
+  font-size: 15px;
+  border-radius: var(--radius-md);
+  border: 0.5px solid var(--border);
+  background: transparent;
+  color: var(--text-secondary);
+  transition:
+    background 0.15s,
+    color 0.15s;
+  line-height: 1;
+}
+
+.themeBtn:hover {
+  background: var(--bg-secondary);
+  color: var(--text);
+}
+
+.main {
+  padding: 28px 32px 48px;
+  flex: 1;
+}
+
+.mainSlideshow {
+  padding: 0;
+  overflow: hidden;
+  height: 0;
+}
