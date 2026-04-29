@@ -135,4 +135,39 @@ export const images: GalleryImage[] = [
     title: "Day 26",
     text: "‘cause he’s the art man / yeaahhhhhhh / he’s the art maaaan / [guitar solo]",
   },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day27.jpg`,
+    title: "Day 27",
+    text: "slide to the left 🕺 / criss cross 🕺",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day28.jpg`,
+    title: "Day 28",
+    text: "show me the scene! 🎬",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day29.jpg`,
+    title: "Day 29",
+    text: "let’s make things proper (time to clean up the draft!)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day30.jpg`,
+    title: "Day 30",
+    text: "colour me a paysage",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day31.jpg`,
+    title: "Day 31",
+    text: "what shall ye be creationing on this day???",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day32.jpg`,
+    title: "Day 32",
+    text: "wield this!! 🖌️ 🎨",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day33.jpg`,
+    title: "Day 33",
+    text: "dream an image unto me",
+  },
 ];
