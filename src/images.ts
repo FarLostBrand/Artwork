@@ -170,4 +170,69 @@ export const images: GalleryImage[] = [
     title: "Day 33",
     text: "dream an image unto me",
   },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day34.jpg`,
+    title: "Day 34",
+    text: "go[ar]tcha",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day35.jpg`,
+    title: "Day 35",
+    text: "lest hockey block the creative flows?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day36.jpg`,
+    title: "Day 36",
+    text: "ART MAN / pls draw me a passionate peace! of clear lines and subtle details! / capture your vision in your mind’s eye!!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day37.jpg`,
+    title: "Day 37",
+    text: "This art shall be done by the strike of midnight!!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day38.jpg`,
+    title: "Day 38",
+    text: "bART 📐  🟨🛹",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day39.jpg`,
+    title: "Day 39",
+    text: "origami",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day40.jpg`,
+    title: "Day 40",
+    text: "🍍tomy / ananatomy",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day41.jpg`,
+    title: "Day 41",
+    text: "let me tell you how it will be / that’s one art for you nine art for me / hes the brandman / yeahhhh / the / brandman!!! / *guitar solo*",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day42.jpg`,
+    title: "Day 42",
+    text: "cast a stunning projection upon my smart device",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day43.jpg`,
+    title: "Day 43",
+    text: "you see, im looking for a sort of guy, you may know him as a distant gentleman / lost, perhaps. / i need him to paint me a picture you see / of the events which unfolded on that 43rd day",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day44.jpg`,
+    title: "Day 44",
+    text: "rendering day!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day45.jpg`,
+    title: "Day 45",
+    text: "art is eternity (what day is it anymore???)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day46.jpg`,
+    title: "Day 46",
+    text: "the art of war - troops we shall prevail for another day",
+  },
 ];
