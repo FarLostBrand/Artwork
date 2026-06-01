@@ -235,4 +235,104 @@ export const images: GalleryImage[] = [
     title: "Day 46",
     text: "the art of war - troops we shall prevail for another day",
   },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day47.jpg`,
+    title: "Day 47",
+    text: "the art of love - theorize it",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day48.jpg`,
+    title: "Day 48",
+    text: "one could say there is an art of the deal, dump 🗑️",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day49.jpg`,
+    title: "Day 49",
+    text: "the art of art - add some colour between these lines",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day50.jpg`,
+    title: "Day 50",
+    text: "the clock ticks - today is line art!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day51.jpg`,
+    title: "Day 51",
+    text: "the clock makes a tock- today is rendering!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day52.jpg`,
+    title: "Day 52",
+    text: "what may be new today, mon cher créatif?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day53.jpg`,
+    title: "Day 53",
+    text: "default blender ball:",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day54.jpg`,
+    title: "Day 54",
+    text: "🍅 moud you 🍅 ghfraw 🍅  somptung",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day55.jpg`,
+    title: "Day 55",
+    text: "Artphilia",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day56.jpg`,
+    title: "Day 56",
+    text: "saikono-art??",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day57.jpg`,
+    title: "Day 57",
+    text: "Still before sunrise 🌅",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day58.jpg`,
+    title: "Day 58",
+    text: "tutututu max verstappen 🏎️",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day59.jpg`,
+    title: "Day 59",
+    text: "I meeeeeaaaaaaaannn 🤦‍♂️ 📕",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day60.jpg`,
+    title: "Day 60",
+    text: "today, a masterpiece to end the second month! / expectations are high! and the audience is cheerfully awaiting!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day61.jpg`,
+    title: "Day 61",
+    text: "today we continue the masterpiece, something something rome wasnt built in a day?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day62.jpg`,
+    title: "Day 62",
+    text: "prepare again thy canvas",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day63.jpg`,
+    title: "Day 63",
+    text: "It’s time for day 60 episode 4 !!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day64.jpg`,
+    title: "Day 64",
+    text: "Oh how I wish for A beautiful portrait on this gloomy day",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day65.jpg`,
+    title: "Day 65",
+    text: "a little bit of art in my life / a little bit of rendering on the side / a little bit of creativity is all I need / a little bit of realism is what I see",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day66.jpg`,
+    title: "Day 66",
+    text: "arg a missing day annotation! how will I ever remember!",
+  },
 ];
