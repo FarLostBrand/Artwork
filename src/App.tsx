@@ -12,6 +12,7 @@ type Theme = "dark" | "light";
 export default function App() {
   const [view, setView] = useState<View>("grid");
   const [theme, setTheme] = useState<Theme>("dark");
+  const [freeAspect, setFreeAspect] = useState(false);
   const [lightboxImage, setLightboxImage] = useState<GalleryImage | null>(null);
 
   useEffect(() => {
@@ -25,6 +26,21 @@ export default function App() {
       <header className={styles.header}>
         <h1 className={styles.siteTitle}>Art Challenge</h1>
         <div className={styles.controls}>
+          {view !== "slideshow" && (
+            <button
+              className={`${styles.viewBtn} ${freeAspect ? styles.active : ""}`}
+              onClick={() => setFreeAspect((v) => !v)}
+              aria-label="Toggle aspect ratio"
+              title={
+                freeAspect
+                  ? "Switch to uniform size"
+                  : "Switch to natural aspect ratio"
+              }
+            >
+              {freeAspect ? "⊡ Uniform" : "⊞ Natural"}
+            </button>
+          )}
+
           <div className={styles.viewSwitcher}>
             {(["grid", "cards", "slideshow"] as View[]).map((v) => (
               <button
@@ -36,6 +52,7 @@ export default function App() {
               </button>
             ))}
           </div>
+
           <button
             className={styles.themeBtn}
             onClick={toggleTheme}
@@ -50,10 +67,18 @@ export default function App() {
         className={view === "slideshow" ? styles.mainSlideshow : styles.main}
       >
         {view === "grid" && (
-          <GridView images={images} onImageClick={setLightboxImage} />
+          <GridView
+            images={images}
+            onImageClick={setLightboxImage}
+            freeAspect={freeAspect}
+          />
         )}
         {view === "cards" && (
-          <CardView images={images} onImageClick={setLightboxImage} />
+          <CardView
+            images={images}
+            onImageClick={setLightboxImage}
+            freeAspect={freeAspect}
+          />
         )}
         {view === "slideshow" && (
           <Slideshow images={images} onImageClick={setLightboxImage} />

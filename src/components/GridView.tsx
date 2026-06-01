@@ -4,14 +4,22 @@ import styles from "./GridView.module.css";
 interface Props {
   images: GalleryImage[];
   onImageClick: (img: GalleryImage) => void;
+  freeAspect?: boolean;
 }
 
-export default function GridView({ images, onImageClick }: Props) {
+export default function GridView({
+  images,
+  onImageClick,
+  freeAspect = false,
+}: Props) {
   return (
     <div className={styles.grid}>
       {images.map((img, i) => (
         <div key={i} className={styles.card}>
-          <div className={styles.imgWrap} onClick={() => onImageClick(img)}>
+          <div
+            className={`${styles.imgWrap} ${freeAspect ? styles.imgWrapFree : ""}`}
+            onClick={() => onImageClick(img)}
+          >
             <img src={img.src} alt={img.title} className={styles.img} />
           </div>
           <div className={styles.body}>

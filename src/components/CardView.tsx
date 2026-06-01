@@ -4,14 +4,22 @@ import styles from "./CardView.module.css";
 interface Props {
   images: GalleryImage[];
   onImageClick: (img: GalleryImage) => void;
+  freeAspect?: boolean;
 }
 
-export default function CardView({ images, onImageClick }: Props) {
+export default function CardView({
+  images,
+  onImageClick,
+  freeAspect = false,
+}: Props) {
   return (
     <div className={styles.list}>
       {images.map((img, i) => (
         <div key={i} className={styles.card}>
-          <div className={styles.imgWrap} onClick={() => onImageClick(img)}>
+          <div
+            className={`${styles.imgWrap} ${freeAspect ? styles.imgWrapFree : ""}`}
+            onClick={() => onImageClick(img)}
+          >
             <img src={img.src} alt={img.title} className={styles.img} />
           </div>
           <div className={styles.body}>
