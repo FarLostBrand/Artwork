@@ -335,4 +335,24 @@ export const images: GalleryImage[] = [
     title: "Day 66",
     text: "arg a missing day annotation! how will I ever remember!",
   },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day67.jpg`,
+    title: "Day 67",
+    text: "6 7 lul / (aren’t memes are an art form)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day68.jpg`,
+    title: "Day 68",
+    text: "🎨 billions must try :)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day69.jpg`,
+    title: "Day 69",
+    text: "I prefer my creativity brandon-generated",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day70.jpg`,
+    title: "Day 70",
+    text: "a little bit of colour from the sun / a little bit of petals strung along / a little bit of contrast here I am / a little bit of art makes me your fan",
+  },
 ];
