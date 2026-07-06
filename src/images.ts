@@ -355,4 +355,164 @@ export const images: GalleryImage[] = [
     title: "Day 70",
     text: "a little bit of colour from the sun / a little bit of petals strung along / a little bit of contrast here I am / a little bit of art makes me your fan",
   },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day71.jpg`,
+    title: "Day 71",
+    text: "macintosh Power On noise at 100% volume / truly a sound that reminds me of staring at the sun",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day72.jpg`,
+    title: "Day 72",
+    text: "👨‍🎨 ette",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day73.jpg`,
+    title: "Day 73",
+    text: "busy bees / buzz buzz / buzy bees buzz / work work work",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day74.jpg`,
+    title: "Day 74",
+    text: "drinking the ol’ the morning Joseph ",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day75.jpg`,
+    title: "Day 75",
+    text: "tuesdart",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day76.jpg`,
+    title: "Day 76",
+    text: "colour me... / blue / da ba",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day77.jpg`,
+    title: "Day 77",
+    text: "experiment 3: how variable can a sleep schedule be?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day78.jpg`,
+    title: "Day 78",
+    text: "one of those dayyssss...",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day79.jpg`,
+    title: "Day 79",
+    text: "i think i smell a particular painting in this pattern…",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day80.jpg`,
+    title: "Day 80",
+    text: "Guess I got what I deserved / Kept you waitin' there too long, my bro / All that time, without a word / Didn't know you'd think that I'd forget / Or I'd regret / The special message I have for you / My brandoboy",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day81.jpg`,
+    title: "Day 81",
+    text: "help me overcome the ai slopocalypse / by bringing some humanity back",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day82.jpg`,
+    title: "Day 82",
+    text: "life is lik amogus / yo udo the task / and then / imposter! / bam / ur donezo / - chairald, age 8 ",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day83.jpg`,
+    title: "Day 83",
+    text: "this implies the existence of a nothing jase / quite the enigma",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day84.jpg`,
+    title: "Day 84",
+    text: "i met an artist from an antique land who said “two vast and half-colourless canvasses stand  in purgatory",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day85.jpg`,
+    title: "Day 85",
+    text: "hmmhmmhmm    hmm   hmm    hmm / hmm   hmm    hmmhmm    hmmhmmhmm / hmm   hmm    hmm          hmm / hmmhmmhmmhmm hmm          hmm",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day86.jpg`,
+    title: "Day 86",
+    text: "you could picture me with a Kodak (or better yet see the picturesque Kodiak)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day87.jpg`,
+    title: "Day 87",
+    text: "Procrastination (noun): 'Procrastination is the act of unnecessarily delaying or postponing tasks despite knowing that there could be negative consequences for doing so.'",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day88.jpg`,
+    title: "Day 88",
+    text: "99% of art addicts quit right before they add enough layers  to complete the drawing :P",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day89.jpg`,
+    title: "Day 89",
+    text: "I spy with my little eye.. a picture which is finished… or a mere mirage?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day90.jpg`,
+    title: "Day 90",
+    text: "would you look what time it is",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day91.jpg`,
+    title: "Day 91",
+    text: "the beginning of a new project is an exciting time / go forth!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day92.jpg`,
+    title: "Day 92",
+    text: "artphiliacs unite",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day93.jpg`,
+    title: "Day 93",
+    text: "bring it on!!!!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day94.jpg`,
+    title: "Day 94",
+    text: "we are truly in jaseman lands",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day95.jpg`,
+    title: "Day 95",
+    text: "do what ye want cuz an artist be free / you are an artist",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day96.jpg`,
+    title: "Day 96",
+    text: "artistic appreciation: sustenance for the soul",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day97.jpg`,
+    title: "Day 97",
+    text: "this lad is feeling quite green today, please expand that palette",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day98.jpg`,
+    title: "Day 98",
+    text: "des yeux sans visage / eyes without a face",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day99.jpg`,
+    title: "Day 99",
+    text: "take my breath away",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day100.jpg`,
+    title: "Day 100",
+    text: "wowie / day 💯 / the centennial",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day101.jpg`,
+    title: "Day 101",
+    text: "artistry 101: consistency",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day102.jpg`,
+    title: "Day 102",
+    text: "hand me down joys",
+  },
 ];
