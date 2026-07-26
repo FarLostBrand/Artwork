@@ -515,4 +515,99 @@ export const images: GalleryImage[] = [
     title: "Day 102",
     text: "hand me down joys",
   },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day103.jpg`,
+    title: "Day 103",
+    text: "my ears are satisfied (they paved paradise, put up a parking lot 🎶) / but my eyes need something nice to look at",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day104.jpg`,
+    title: "Day 104",
+    text: "are my hacks as good as i myself am a hack? who could know",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day105.jpg`,
+    title: "Day 105",
+    text: "cryptic man emerges / the riddle isn’t so / but your results vary",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day106.jpg`,
+    title: "Day 106",
+    text: "day 106 of the war against the northern territories",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day107.jpg`,
+    title: "Day 107",
+    text: "Rev up those paints cans because I am sure hungry for one - ACK ACK MY WRIST",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day108.jpg`,
+    title: "Day 108",
+    text: "into the shadows",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day109.jpg`,
+    title: "Day 109",
+    text: "It’s like rain on your wedding day / It’s a free ride when you’ve already paid / It’s the good advice that you just didn’t take / And would’ve thought… it figures",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day110.jpg`,
+    title: "Day 110",
+    text: "I've become so numb, I can't feel you there / Become so tired, so much more aware",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day111.jpg`,
+    title: "Day 111",
+    text: "it’s getting hot in here 🌏",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day112.jpg`,
+    title: "Day 112",
+    text: "La question qu’j’me pose tout l’temps / Mais comment font tous ces gens / Pour croire encore en la vie / Dans cette hypocrisie?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day113.jpg`,
+    title: "Day 113",
+    text: "tfw its 1:49 am working on the project and - … - THE PIG BLINKED",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day114.jpg`,
+    title: "Day 114",
+    text: "6 years of jb studios!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day115.jpg`,
+    title: "Day 115",
+    text: "what’s new painterman? / a bold project or a practice for a bigger day",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day116.jpg`,
+    title: "Day 116",
+    text: "brand man does brandoing",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day117.jpg`,
+    title: "Day 117",
+    text: "absolute cinema! present me the next in the series!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day118.jpg`,
+    title: "Day 118",
+    text: "farlostonius brandicus",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day119.jpg`,
+    title: "Day 119",
+    text: "colourado",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day120.jpg`,
+    title: "Day 120",
+    text: "it takes all your power / to show that you don’t care / im not Aurelia / i will not be there",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day121.jpg`,
+    title: "Day 121",
+    text: "day 121: Sauvé / côte-vertu ",
+  },
 ];
