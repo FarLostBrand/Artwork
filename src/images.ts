@@ -610,4 +610,471 @@ export const images: GalleryImage[] = [
     title: "Day 121",
     text: "day 121: Sauvé / côte-vertu ",
   },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day122.jpg`,
+    title: "Day 122",
+    text: "🏎️ 🐎  we are checking, we are checking",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day123.jpg`,
+    title: "Day 123",
+    text: "Let’s circle back on that / How about instead of all those sketches and palettes you provide something that looks morel Ike a final copy? / If it’s really needed - just a TLDR for me. Lets try to move along with this project / Sincerely, Director CaresLittle",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day124.jpg`,
+    title: "Day 124",
+    text: "Hello Brandon, notwithstanding the previous statement made on day 19, I am no longer considering the limitations of section II; I no longer am constraining my feedback to this being a learning experience. Before claiming that I have reneged the agreement please review the clause I maintained in my side of the agreement (made day 0) / thus, you shall receive my full judgement henceforth!!!!!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day125.jpg`,
+    title: "Day 125",
+    text: "Errrrrmmm durrrrr ChatGPT judge this image for me pls",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day126.jpg`,
+    title: "Day 126",
+    text: "chat, all my art alphas know that these pieces are straight up gas / the rizzler in question, lance, is depicted holding his namesake weapon / but the question remains of what elite ball knowledge the artist was dropping here",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day127.jpg`,
+    title: "Day 127",
+    text: "what day is it anymore????",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day128.jpg`,
+    title: "Day 128",
+    text: "it smells like someone’s house is burning outside right now lol / or is it because Brandon is cooking up FIRE??????!!!!!¿!¡",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day129.jpg`,
+    title: "Day 129",
+    text: "what day is it anymore?? line day, shading day… lore day???",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day130.jpg`,
+    title: "Day 130",
+    text: "no where is the crafting? get goin’!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day131.jpg`,
+    title: "Day 131",
+    text: "Now featuring: liability insurance!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day132.jpg`,
+    title: "Day 132",
+    text: "look at this frontenacman",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day133.jpg`,
+    title: "Day 133",
+    text: "On the road again",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day134.jpg`,
+    title: "Day 134",
+    text: "exotic butters",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day135.jpg`,
+    title: "Day 135",
+    text: "loin d’ici c’est looooin en titi loooooin en tit",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day136.jpg`,
+    title: "Day 136",
+    text: "day (17*integral from zero to two of (integral from zero to y of (y*e^x*x^2))dxdy)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day137.jpg`,
+    title: "Day 137",
+    text: "leet haha 1337 day, 137",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day138.jpg`,
+    title: "Day 138",
+    text: "getting busy? buzzy? busy buzzy bee? buzzin with activity? or getting freaky with the flowers, enacting those magical powers, coming home and making some honey?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day139.jpg`,
+    title: "Day 139",
+    text: "managerial brand what makes of ye",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day140.jpg`,
+    title: "Day 140",
+    text: "bangarang",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day141.jpg`,
+    title: "Day 141",
+    text: "get the raft!! sounamie",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day142.jpg`,
+    title: "Day 142",
+    text: "rev up ur engines / its time for a race against time",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day143.jpg`,
+    title: "Day 143",
+    text: "quote blah blah blah",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day144.jpg`,
+    title: "Day 144",
+    text: "group porjects",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day145.jpg`,
+    title: "Day 145",
+    text: "Well life has a funny way / of sneaking up on you when you think everything's okay / and everything's going right / And life has a funny way of helping you out when you think everything's gone wrong / and everything blows up in your face",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day146.jpg`,
+    title: "Day 146",
+    text: "greedflation",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day147.jpg`,
+    title: "Day 147",
+    text: "welcome to the worldd of tomorrow!!!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day148.jpg`,
+    title: "Day 148",
+    text: "wazzup beijing",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day149.jpg`,
+    title: "Day 149",
+    text: "verbum",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day150.jpg`,
+    title: "Day 150",
+    text: "comets amongst the stars",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day151.jpg`,
+    title: "Day 151",
+    text: "taxidermy",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day152.jpg`,
+    title: "Day 152",
+    text: "trapped in the heart of the golden square mile",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day153.jpg`,
+    title: "Day 153",
+    text: "the fastest programmer in the west 🤠 🖥️",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day154.jpg`,
+    title: "Day 154",
+    text: "ADVANCE WARNING SYSTEM ENGAGED ⚠️ ‼️ / EARLY ART MESSAGE DEPLOYED 📜 📡 / wouldn’t care for a bit of colour now would ya / ACK / MESSAGE RECEIVED 🚀 🚧 🚨 / GEAR COMMITTED 🖌️ 🖼️ 🎨",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day155.jpg`,
+    title: "Day 155",
+    text: "Mr president another art piece has hit the creatives channel / the server is under attack",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day156.jpg`,
+    title: "Day 156",
+    text: "what shall it be today Mr funky crafts",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day157.jpg`,
+    title: "Day 157",
+    text: "this was a triumph / im making a note here / 'HUGE SUCCESS'",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day158.jpg`,
+    title: "Day 158",
+    text: "Are you testing out that bot? Kanban",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day159.jpg`,
+    title: "Day 159",
+    text: "take a chance on me / (take a chance take a chance)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day160.jpg`,
+    title: "Day 160",
+    text: "you speen me right round",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day161.jpg`,
+    title: "Day 161",
+    text: "remember: PMA, positive mental attitude",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day162.jpg`,
+    title: "Day 162",
+    text: "We are checking",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day163.jpg`,
+    title: "Day 163",
+    text: "*alarm (auto pilot disconnect)* 🚨 BANK ANGLE / BANK ANGLE / TERRAIN TERRAIN PULL UP! / *stick shaking* / BANK ANGLE / PULL UP PULL UP PULL UP / *overspeed alarm ⏰ * DU DA DU DA DU DA / 100 / 50 / 4030 / 20",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day164.jpg`,
+    title: "Day 164",
+    text: "🆘 SAUS DEPLOYMENT IMMINENT 🛟",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day165.jpg`,
+    title: "Day 165",
+    text: "lazy? i was lazy once / they kept in a room, a plush room, with couches? couches? couches make me lazy. lazy? i was lazy once",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day166.jpg`,
+    title: "Day 166",
+    text: "backstreeets back alrighttt",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day167.jpg`,
+    title: "Day 167",
+    text: "must be the water",
+  },{
+    src: `${import.meta.env.BASE_URL}images/Day168.jpg`,
+    title: "Day 168",
+    text: "farlostisium activate my neurons may you please",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day169.jpg`,
+    title: "Day 169",
+    text: "give it up for day 169 folks",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day170.jpg`,
+    title: "Day 170",
+    text: "now you see me now you don’t",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day171.jpg`,
+    title: "Day 171",
+    text: "eye spy with my little eye",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day172.jpg`,
+    title: "Day 172",
+    text: "follow the white rabbit",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day173.jpg`,
+    title: "Day 173",
+    text: "rise and shine, Mr brandman, rise and shine / not that I wish to imply you’ve been sleeping on…the job / no one is more deserving of a restttt / and all the effort in the wOrld would’ve gone to waste until...well, let's just say your hour has come again / the right man in the wrong place can make all the difffference in the world / so, wake up, Mr brandman wake up and smell the ashes",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day174.jpg`,
+    title: "Day 174",
+    text: "time, dr brandman / is it really that time, again?",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day175.jpg`,
+    title: "Day 175",
+    text: "WAKE UP NEO WAKE UP",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day176.jpg`,
+    title: "Day 176",
+    text: "Today: a slight delay",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day177.jpg`,
+    title: "Day 177",
+    text: "eeven flow 🎶 / thoughts arrive like butterflies..(.)",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day178.jpg`,
+    title: "Day 178",
+    text: "pasta sauce with a hint of tortellini",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day179.jpg`,
+    title: "Day 179",
+    text: "well here we are again / its always such a pleasure / remember when you tried to kill me twice / oh how we laughed and laughed / except i wasn't laughing / under the circumstances / i've been shockingly nice / you want your freedom take it, / that's what im counting onnnnnn",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day180.jpg`,
+    title: "Day 180",
+    text: "coincidence? I think not / Reduce reuse recycle",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day181.jpg`,
+    title: "Day 181",
+    text: "This next test is very dangerous. To help you remain tranquil in the face of almost certain death, smooth jazz will be deployed in 3... 2... 1...",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day182.jpg`,
+    title: "Day 182",
+    text: "ah yes the cat shaped ball of hatred",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day183.jpg`,
+    title: "Day 183",
+    text: "Where’s your head at????",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day184.jpg`,
+    title: "Day 184",
+    text: "oh no there are zombies invading my lawn",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day185.jpg`,
+    title: "Day 185",
+    text: "1: where are we? / 2: looks we’re in some hazardous environment / 3: silence",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day186.jpg`,
+    title: "Day 186",
+    text: "this is the greatest plaaaaannnn",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day187.jpg`,
+    title: "Day 187",
+    text: "Calm like a bomb",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day188.jpg`,
+    title: "Day 188",
+    text: "yeah I’ve got time",
+  },{
+    src: `${import.meta.env.BASE_URL}images/Day189.jpg`,
+    title: "Day 189",
+    text: "When the cube is sus",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day190.jpg`,
+    title: "Day 190",
+    text: "Catto",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day191.jpg`,
+    title: "Day 191",
+    text: "warpppped perceptions",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day192.jpg`,
+    title: "Day 192",
+    text: "🐈 aclysm",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day193.jpg`,
+    title: "Day 193",
+    text: "¿¡¡???!!!!`..…,;:–•is this a fnaf reference?¿????????🟪 🟠",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day194.jpg`,
+    title: "Day 194",
+    text: "UNO MAS",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day195.jpg`,
+    title: "Day 195",
+    text: "pspspspspspspspspspsps / pspspspspspspspspspsps",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day196.jpg`,
+    title: "Day 196",
+    text: "deduce this antepenultimatum… or else… something will maybe happen in the future!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day197.jpg`,
+    title: "Day 197",
+    text: "that shark was a demon / those eyes / black like a dolls eyes / those eyes",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day198.jpg`,
+    title: "Day 198",
+    text: "Happy Leif Erikson day! Hinga dinga durgen",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day199.jpg`,
+    title: "Day 199",
+    text: "Cat in the hat!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day200.jpg`,
+    title: "Day 200",
+    text: "warp timer: 2.3 seconds / prepare to be faster than light",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day201.jpg`,
+    title: "Day 201",
+    text: "mr freezing",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day202.jpg`,
+    title: "Day 202",
+    text: "we do what we must because we can",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day203.jpg`,
+    title: "Day 203",
+    text: "Triage at Dawn",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day204.jpg`,
+    title: "Day 204",
+    text: "The big Two Oh Four",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day205.jpg`,
+    title: "Day 205",
+    text: "Time and time again",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day206.jpg`,
+    title: "Day 206",
+    text: "a tapestry of time!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day207.jpg`,
+    title: "Day 207",
+    text: "Brane scan",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day208.jpg`,
+    title: "Day 208",
+    text: "What if this whole crusade’s… a charade? / And behind it all there’s a price to be paid for the blood… which we dine… justified in the name of the holy and the divine! / Just how deep do you believe? Will you bite that hand that feeds? / Will you chew until it bleeds? / Can you get up off your knees? / Are you brave enough to see? / Do you wanna change it?",
+  },{
+    src: `${import.meta.env.BASE_URL}images/Day209.jpg`,
+    title: "Day 209",
+    text: "Ah! Le Piploop!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day210.jpg`,
+    title: "Day 210",
+    text: "The revolution will not be televised",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day211.jpg`,
+    title: "Day 211",
+    text: "I don’t wanna be here. I wanna go home and draw!",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day212.jpg`,
+    title: "Day 212",
+    text: "Climbing up the Walls",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day213.jpg`,
+    title: "Day 213",
+    text: "Self Esteem Fund",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day214.jpg`,
+    title: "Day 214",
+    text: "RUMBLIN AND TUMBLIN",
+  },
+  {
+    src: `${import.meta.env.BASE_URL}images/Day215.jpg`,
+    title: "Day 215",
+    text: "Display thee’s minds eye",
+  },
 ];
